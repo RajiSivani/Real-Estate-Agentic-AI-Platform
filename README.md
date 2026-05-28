@@ -452,8 +452,4 @@ MIT License - feel free to use for learning and demo purposes.
 
 ## 📧 Contact
 
-For questions or demo requests, contact: [your-email]
-
----
-
-**Built with ❤️ for the real estate industry**
+For questions or demo requests, contact: rajisivaniapm@gmail.com
